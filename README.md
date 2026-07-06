@@ -35,4 +35,26 @@ so we are in Shenzen , China!!! for a 7 Day hardware hackathon!! by Hackclub , F
 
 ## How to use it 
 
+so basically you have the button matrix and you type and click send
+
+## Zine Page
+
+![Zine Page](Images/Soupy-talki.png)
+
+---
+
+## Images
+
+Top side
+
+![TOP](Images/top.png)
+
+Side side 
+
+![SIDE](Images/side.png)
+
+Back side 
+
+![BACK](Images/back.png)
+
 
